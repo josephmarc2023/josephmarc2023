@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=josephmarc2023&label=Profile%20views&color=0e75b6&style=flat" alt="josephmarc2023" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=josephmarc2023" alt="josephmarc2023" /></a> </p>
-
 - 🌱 I’m currently learning **Data Analytics and Web Development**
 
 <h3 align="left">Connect with me:</h3>
